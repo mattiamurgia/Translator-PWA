@@ -4,7 +4,6 @@ import axios from "axios";
 import "./Translator.css";
 import { NavbarCustom as Navbar } from "./../navbar/Navbar";
 
-//Commentare le sezioni e cercare ciò che non si sa
 
 const authKey = "AUTHKEY";
 
