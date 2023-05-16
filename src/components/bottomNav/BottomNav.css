@@ -1,0 +1,11 @@
+.theme-mode-light {
+    position: fixed;
+    width: 100%;
+    background-color: #3591dc !important;
+    margin-bottom: 0;
+}
+
+
+.theme-mode-dark {
+    background-color: #7a5af5;
+}

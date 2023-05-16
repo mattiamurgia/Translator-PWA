@@ -1,0 +1,19 @@
+.btn-translate {
+    background-color: #ffffff !important;
+    color: #4c39ca !important;
+}
+
+.btn-help {
+    background-color: #ffffff !important;
+    color: #39ca45 !important;
+}
+
+.home-style-light {
+    height: 70vh;
+    background-color: white;
+}
+
+.home-style-dark {
+    height: 70vh;
+    color: white;
+}

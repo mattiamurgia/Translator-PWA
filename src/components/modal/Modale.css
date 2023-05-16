@@ -1,0 +1,17 @@
+.theme-modal-light {
+    background-color: white !important;
+    color: black !important;
+}
+
+.theme-modal-dark {
+    background-color: black !important;
+    color: white !important;
+}
+
+.theme-icon-light {
+    color: rgb(255, 153, 0);
+}
+
+.theme-icon-dark {
+    color: yellow;
+}

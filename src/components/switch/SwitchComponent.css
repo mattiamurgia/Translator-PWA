@@ -1,0 +1,23 @@
+.theme-button-light {
+    background-color: white !important;
+    color: black !important;
+    padding: 5px;
+}
+
+.theme-button-dark {
+    background-color: black !important;
+    color: white !important;
+    padding: 5px;
+}
+
+.theme-span-light {
+    background-color: black !important;
+    color: yellow !important;
+    padding: 5px;
+}
+
+.theme-span-dark {
+    background-color: yellow !important;
+    color: black !important;
+    padding: 5px;
+}

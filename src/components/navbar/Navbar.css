@@ -1,0 +1,9 @@
+.navbar-style-light {
+    background-color: #3591dc !important;
+}
+
+
+.navbar-style-dark {
+    background-color: #7a5af5;
+    color: rgb(255, 255, 255);
+}
